@@ -1,6 +1,8 @@
 # mmm-chatgpt
 A simple Integration of the ChatGPT OpenAI Api for MagicMirror.
 
+![This is an image](example.jpg)
+
 ## Configuration
 ```
 {
