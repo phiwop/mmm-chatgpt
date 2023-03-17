@@ -1,0 +1,24 @@
+#chatgpt-input {
+    background: #1A1A1A;
+    border-radius: 2em;
+    border: none;
+    padding: 0.8em;
+    width: 100%;
+    color: #A2A2A2;
+    outline: none;
+    box-shadow: 0 4px 6px -5px hsl(0, 0%, 40%), inset 0px 4px 6px -5px hsl(0, 0%, 2%)
+}
+
+#chatgpt-answer {
+    margin:10px;
+    font-size: 0.9em;
+    text-align: left;
+    max-height:200px;
+    width:300px;
+    overflow-y: auto;
+}
+
+#chatgpt-module {
+    width: 300px;
+    margin:5px;
+}
