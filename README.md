@@ -1,2 +1,15 @@
 # mmm-chatgpt
-A simple Integration of the ChatGPT OpenAI Api for MagicMirror
+A simple Integration of the ChatGPT OpenAI Api for MagicMirror.
+
+## Configuration
+```
+{
+  module: 'MMM-ChatGPT',
+  position: 'bottom_right',
+  config: {
+    openaiapikey: "YOUR-OPENAI-API-KEY",
+    model: "text-davinci-003",
+    max_tokens: 1024,
+  }
+},
+```
